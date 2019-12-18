@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.htcvivetutorial2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\virtu\\source\\repos\\HTC-Vive-Tutorial-Interactions\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HTC Vive Tutorial 2 [Testing]"
+        }
+      }
+    }
+  ]
+}
